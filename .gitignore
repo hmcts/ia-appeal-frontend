@@ -1,4 +1,5 @@
 .idea
+app/assets/.DS_Store
 node_modules
 yarn-error.log
 public
