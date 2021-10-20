@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="255.2px" height="30px" viewBox="0 0 255.2 30" style="enable-background:new 0 0 255.2 30;" xml:space="preserve">
+	 width="140.4px" height="30px" viewBox="0 0 140.4 30" style="enable-background:new 0 0 140.4 30;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#F3F2F1;}
 	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#F3F2F1;}
@@ -33,12 +33,14 @@
 	.st27{fill-rule:evenodd;clip-rule:evenodd;fill:#B10E1E;stroke:#979797;}
 	.st28{fill-rule:evenodd;clip-rule:evenodd;fill:#D0021B;}
 	.st29{fill:none;stroke:#DF0A15;stroke-miterlimit:10;}
-	.st30{fill:#F7931E;}
-	.st31{fill:none;}
-	.st32{font-family:'Arial-BoldMT';}
-	.st33{font-size:14px;}
+	.st30{fill:none;}
+	.st31{font-family:'Arial-BoldMT';}
+	.st32{font-size:14px;}
+	.st33{fill:#F7931E;}
+	.st34{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#D4351C;stroke-width:5;stroke-miterlimit:10;}
+	.st35{fill-rule:evenodd;clip-rule:evenodd;fill:#B10E1E;stroke:#000000;stroke-miterlimit:10;}
 </style>
-<rect class="st0" width="165.2" height="30"/>
-<rect y="10" class="st31" width="255.2" height="14.5"/>
-<text transform="matrix(1 0 0 1 15.1952 20.0627)" class="st32 st33">APPEAL ON HOLD</text>
+<rect class="st0" width="140.4" height="30"/>
+<rect y="9.9" class="st30" width="140.4" height="10.2"/>
+<text transform="matrix(1 0 0 1 7.5804 19.9245)" class="st31 st32">APPEAL ON HOLD</text>
 </svg>
