@@ -30,8 +30,11 @@
 <circle class="st3" cx="730.4" cy="15" r="15"/>
 <polyline class="st5" points="723.4,15.6 727.8,19.5 737.4,10.5 "/>
 <circle class="st3" cx="832.6" cy="15" r="15"/>
-<polyline class="st5" points="825.6,15.6 830,19.5 839.6,10.5 "/>
-<circle class="st3" cx="934.8" cy="15" r="15"/>
+<g>
+	<circle class="st4" cx="934.8" cy="15" r="13.8"/>
+	<path class="st3" d="M934.8,2.5c6.9,0,12.5,5.6,12.5,12.5s-5.6,12.5-12.5,12.5s-12.5-5.6-12.5-12.5S927.9,2.5,934.8,2.5 M934.8,0
+		c-8.3,0-15,6.7-15,15c0,8.3,6.7,15,15,15c8.3,0,15-6.7,15-15C949.8,6.7,943.1,0,934.8,0L934.8,0z"/>
+</g>
 <rect y="45.2" class="st6" width="69" height="51"/>
 <text transform="matrix(1 0 0 1 0 55.1888)"><tspan x="0" y="0" class="st7 st8">Appeal</tspan><tspan x="0" y="16.8" class="st7 st8">started</tspan></text>
 <rect x="102.2" y="45.2" class="st6" width="69" height="51"/>
@@ -49,7 +52,7 @@
 <rect x="715.4" y="45.2" class="st6" width="69" height="51"/>
 <text transform="matrix(1 0 0 1 715.4 55.1888)"><tspan x="0" y="0" class="st7 st8">Pre</tspan><tspan x="0" y="16.8" class="st7 st8">hearing</tspan></text>
 <rect x="817.6" y="45.2" class="st6" width="69" height="51"/>
-<text transform="matrix(1 0 0 1 817.6 55.1888)" class="st7 st8">Hearing</text>
+<text transform="matrix(1 0 0 1 817.6 55.1888)" class="st9 st8">Hearing</text>
 <rect x="919.8" y="45.2" class="st6" width="69" height="51"/>
-<text transform="matrix(1 0 0 1 919.8 55.1888)" class="st9 st8">Decision</text>
+<text transform="matrix(1 0 0 1 919.8 55.1888)" class="st7 st8">Decision</text>
 </svg>
