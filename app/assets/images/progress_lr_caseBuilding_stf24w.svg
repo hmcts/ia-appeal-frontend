@@ -22,16 +22,31 @@
 <circle class="st3" cx="291" cy="15" r="15"/>
 <polyline class="st5" points="284,15.6 288.4,19.5 298,10.5 "/>
 <circle class="st3" cx="383" cy="15" r="15"/>
-<polyline class="st5" points="376,15.6 380.4,19.5 390,10.5 "/>
-<circle class="st3" cx="475" cy="15" r="15"/>
-<polyline class="st5" points="468,15.6 472.4,19.5 482,10.5 "/>
-<circle class="st3" cx="567" cy="15" r="15"/>
-<polyline class="st5" points="560,15.6 564.4,19.5 574,10.5 "/>
-<circle class="st3" cx="659" cy="15" r="15"/>
-<polyline class="st5" points="652,15.6 656.4,19.5 666,10.5 "/>
-<circle class="st3" cx="751" cy="15" r="15"/>
-<polyline class="st5" points="744,15.6 748.4,19.5 758,10.5 "/>
-<circle class="st3" cx="843" cy="15" r="15"/>
+<g>
+	<circle class="st4" cx="475" cy="15" r="13.8"/>
+	<path class="st3" d="M475,2.5c6.9,0,12.5,5.6,12.5,12.5s-5.6,12.5-12.5,12.5s-12.5-5.6-12.5-12.5S468.1,2.5,475,2.5 M475,0
+		c-8.3,0-15,6.7-15,15c0,8.3,6.7,15,15,15c8.3,0,15-6.7,15-15C490,6.7,483.3,0,475,0L475,0z"/>
+</g>
+<g>
+	<circle class="st4" cx="567" cy="15" r="13.8"/>
+	<path class="st3" d="M567,2.5c6.9,0,12.5,5.6,12.5,12.5s-5.6,12.5-12.5,12.5s-12.5-5.6-12.5-12.5S560.1,2.5,567,2.5 M567,0
+		c-8.3,0-15,6.7-15,15c0,8.3,6.7,15,15,15c8.3,0,15-6.7,15-15C582,6.7,575.3,0,567,0L567,0z"/>
+</g>
+<g>
+	<circle class="st4" cx="659" cy="15" r="13.8"/>
+	<path class="st3" d="M659,2.5c6.9,0,12.5,5.6,12.5,12.5s-5.6,12.5-12.5,12.5s-12.5-5.6-12.5-12.5S652.1,2.5,659,2.5 M659,0
+		c-8.3,0-15,6.7-15,15c0,8.3,6.7,15,15,15c8.3,0,15-6.7,15-15C674,6.7,667.3,0,659,0L659,0z"/>
+</g>
+<g>
+	<circle class="st4" cx="751" cy="15" r="13.8"/>
+	<path class="st3" d="M751,2.5c6.9,0,12.5,5.6,12.5,12.5s-5.6,12.5-12.5,12.5s-12.5-5.6-12.5-12.5S744.1,2.5,751,2.5 M751,0
+		c-8.3,0-15,6.7-15,15c0,8.3,6.7,15,15,15c8.3,0,15-6.7,15-15C766,6.7,759.3,0,751,0L751,0z"/>
+</g>
+<g>
+	<circle class="st4" cx="843" cy="15" r="13.8"/>
+	<path class="st3" d="M843,2.5c6.9,0,12.5,5.6,12.5,12.5s-5.6,12.5-12.5,12.5s-12.5-5.6-12.5-12.5S836.1,2.5,843,2.5 M843,0
+		c-8.3,0-15,6.7-15,15c0,8.3,6.7,15,15,15c8.3,0,15-6.7,15-15C858,6.7,851.3,0,843,0L843,0z"/>
+</g>
 <g>
 	<circle class="st4" cx="935" cy="15" r="13.8"/>
 	<path class="st3" d="M935,2.5c6.9,0,12.5,5.6,12.5,12.5s-5.6,12.5-12.5,12.5s-12.5-5.6-12.5-12.5S928.1,2.5,935,2.5 M935,0
@@ -46,7 +61,7 @@
 <rect x="276" y="45.2" class="st6" width="69" height="51"/>
 <text transform="matrix(1 0 0 1 276 55.1888)"><tspan x="0" y="0" class="st7 st8">Awaiting</tspan><tspan x="0" y="16.8" class="st7 st8">respondent</tspan><tspan x="0" y="33.6" class="st7 st8">evidence</tspan></text>
 <rect x="368" y="45.2" class="st6" width="69" height="51"/>
-<text transform="matrix(1 0 0 1 368 55.1888)"><tspan x="0" y="0" class="st7 st8">Case</tspan><tspan x="0" y="16.8" class="st7 st8">building</tspan></text>
+<text transform="matrix(1 0 0 1 368 55.1888)"><tspan x="0" y="0" class="st9 st8">Case</tspan><tspan x="0" y="16.8" class="st9 st8">building</tspan></text>
 <rect x="460" y="45.2" class="st6" width="69" height="51"/>
 <text transform="matrix(1 0 0 1 460 55.1888)"><tspan x="0" y="0" class="st7 st8">Case</tspan><tspan x="0" y="16.8" class="st7 st8">under</tspan><tspan x="0" y="33.6" class="st7 st8">review</tspan></text>
 <rect x="552" y="45.2" class="st6" width="69" height="51"/>
@@ -56,7 +71,7 @@
 <rect x="736" y="45.2" class="st6" width="69" height="51"/>
 <text transform="matrix(1 0 0 1 736 55.1888)"><tspan x="0" y="0" class="st7 st8">Pre</tspan><tspan x="0" y="16.8" class="st7 st8">hearing</tspan></text>
 <rect x="828" y="45.2" class="st6" width="69" height="51"/>
-<text transform="matrix(1 0 0 1 828 55.1888)" class="st9 st8">Hearing</text>
+<text transform="matrix(1 0 0 1 828 55.1888)" class="st7 st8">Hearing</text>
 <rect x="920" y="45.2" class="st6" width="69" height="51"/>
 <text transform="matrix(1 0 0 1 920 55.1888)" class="st7 st8">Decision</text>
 </svg>
