@@ -68,15 +68,15 @@
 <text transform="matrix(1 0 0 1 0 55.1888)"><tspan x="0" y="0" class="st9 st8">Appeal</tspan><tspan x="0" y="16.8" class="st9 st8">submitted</tspan></text>
 <rect x="92" y="45.2" class="st6" width="69" height="51"/>
 <text transform="matrix(1 0 0 1 92 55.1888)" class="st7 st8">Listing</text>
-<rect x="184" y="45.2" class="st6" width="78.4" height="51"/>
+<rect x="184" y="45.2" class="st6" width="69" height="51"/>
 <text transform="matrix(1 0 0 1 184 55.1888)"><tspan x="0" y="0" class="st7 st8">Awaiting</tspan><tspan x="0" y="16.8" class="st7 st8">respondent</tspan><tspan x="0" y="33.6" class="st7 st8">evidence</tspan></text>
 <rect x="276" y="45.2" class="st6" width="69" height="51"/>
 <text transform="matrix(1 0 0 1 276 55.1888)"><tspan x="0" y="0" class="st7 st8">Case</tspan><tspan x="0" y="16.8" class="st7 st8">building</tspan></text>
 <rect x="368" y="45.2" class="st6" width="69" height="51"/>
 <text transform="matrix(1 0 0 1 368 55.1888)"><tspan x="0" y="0" class="st7 st8">Case</tspan><tspan x="0" y="16.8" class="st7 st8">under</tspan><tspan x="0" y="33.6" class="st7 st8">review</tspan></text>
-<rect x="460" y="45.2" class="st6" width="76.1" height="51"/>
+<rect x="460" y="45.2" class="st6" width="69" height="51"/>
 <text transform="matrix(1 0 0 1 460 55.1888)"><tspan x="0" y="0" class="st7 st8">Submit</tspan><tspan x="0" y="16.8" class="st7 st8">hearing</tspan><tspan x="0" y="33.6" class="st7 st8">requirements</tspan></text>
-<rect x="552" y="45.2" class="st6" width="89" height="51"/>
+<rect x="552" y="45.2" class="st6" width="69" height="51"/>
 <text transform="matrix(1 0 0 1 552 55.1888)"><tspan x="0" y="0" class="st7 st8">Respondent</tspan><tspan x="0" y="16.8" class="st7 st8">review</tspan></text>
 <rect x="644" y="45.2" class="st6" width="69" height="51"/>
 <text transform="matrix(1 0 0 1 644 55.1888)"><tspan x="0" y="0" class="st7 st8">Prepare</tspan><tspan x="0" y="16.8" class="st7 st8">for hearing</tspan></text>
