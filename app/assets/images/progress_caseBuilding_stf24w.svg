@@ -16,16 +16,10 @@
 <circle class="st3" cx="15" cy="15" r="15"/>
 <polyline class="st5" points="8,15.6 12.4,19.5 22,10.5 "/>
 <circle class="st3" cx="107" cy="15" r="15"/>
-<g>
-	<circle class="st4" cx="199" cy="15" r="13.8"/>
-	<path class="st3" d="M199,2.5c6.9,0,12.5,5.6,12.5,12.5s-5.6,12.5-12.5,12.5s-12.5-5.6-12.5-12.5S192.1,2.5,199,2.5 M199,0
-		c-8.3,0-15,6.7-15,15c0,8.3,6.7,15,15,15c8.3,0,15-6.7,15-15C214,6.7,207.3,0,199,0L199,0z"/>
-</g>
-<g>
-	<circle class="st4" cx="291" cy="15" r="13.8"/>
-	<path class="st3" d="M291,2.5c6.9,0,12.5,5.6,12.5,12.5s-5.6,12.5-12.5,12.5s-12.5-5.6-12.5-12.5S284.1,2.5,291,2.5 M291,0
-		c-8.3,0-15,6.7-15,15c0,8.3,6.7,15,15,15c8.3,0,15-6.7,15-15C306,6.7,299.3,0,291,0L291,0z"/>
-</g>
+<polyline class="st5" points="100,15.6 104.4,19.5 114,10.5 "/>
+<circle class="st3" cx="199" cy="15" r="15"/>
+<polyline class="st5" points="192,15.6 196.4,19.5 206,10.5 "/>
+<circle class="st3" cx="291" cy="15" r="15"/>
 <g>
 	<circle class="st4" cx="383" cy="15" r="13.8"/>
 	<path class="st3" d="M383,2.5c6.9,0,12.5,5.6,12.5,12.5s-5.6,12.5-12.5,12.5s-12.5-5.6-12.5-12.5S376.1,2.5,383,2.5 M383,0
@@ -64,11 +58,11 @@
 <rect y="45.2" class="st6" width="69" height="51"/>
 <text transform="matrix(1 0 0 1 0 55.1888)"><tspan x="0" y="0" class="st7 st8">Appeal</tspan><tspan x="0" y="16.8" class="st7 st8">submitted</tspan></text>
 <rect x="92" y="45.2" class="st6" width="69" height="51"/>
-<text transform="matrix(1 0 0 1 92 55.1888)" class="st9 st8">Listing</text>
+<text transform="matrix(1 0 0 1 92 55.1888)" class="st7 st8">Listing</text>
 <rect x="184" y="45.2" class="st6" width="69" height="51"/>
 <text transform="matrix(1 0 0 1 184 55.1888)"><tspan x="0" y="0" class="st7 st8">Awaiting</tspan><tspan x="0" y="16.8" class="st7 st8">respondent</tspan><tspan x="0" y="33.6" class="st7 st8">evidence</tspan></text>
 <rect x="276" y="45.2" class="st6" width="69" height="51"/>
-<text transform="matrix(1 0 0 1 276 55.1888)"><tspan x="0" y="0" class="st7 st8">Case</tspan><tspan x="0" y="16.8" class="st7 st8">building</tspan></text>
+<text transform="matrix(1 0 0 1 276 55.1888)"><tspan x="0" y="0" class="st9 st8">Case</tspan><tspan x="0" y="16.8" class="st9 st8">building</tspan></text>
 <rect x="368" y="45.2" class="st6" width="69" height="51"/>
 <text transform="matrix(1 0 0 1 368 55.1888)"><tspan x="0" y="0" class="st7 st8">Case</tspan><tspan x="0" y="16.8" class="st7 st8">under</tspan><tspan x="0" y="33.6" class="st7 st8">review</tspan></text>
 <rect x="460" y="45.2" class="st6" width="69" height="51"/>
